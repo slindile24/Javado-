@@ -16,6 +16,7 @@ public class TaskManager {
 
     public List<String> listTasks() {
         return tasks;
+
     }
 
     public void deleteTask(String task){
@@ -24,5 +25,6 @@ public class TaskManager {
 
     public void exit() {
         // leave for iteration 2
+        
     }
 }
